@@ -21,6 +21,9 @@ using namespace RooFit;
 
 // Old version of the macro, not updated
 // Use DiagnosisMacro.C instead
+
+// Test for the git
+
 //void rf605_profilell()
 void DiagnosisOta()
 {
